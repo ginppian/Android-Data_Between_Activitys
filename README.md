@@ -12,7 +12,7 @@ Android Data Between Activitys
 ### Creamos las Vista 1
 
 <p align="center">
-	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img2.png" width="116" height="190">
+	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img2.png" width="233" height="381">
 </p>
 
 <p align="justify">
@@ -123,7 +123,7 @@ Android Data Between Activitys
 ### Creamos la Vista 2
 
 <p align="center">
-	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img3.png" width="116" height="190">
+	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img3.png" width="233" height="381">
 </p>
 
 <p align="justify">
@@ -131,7 +131,7 @@ Android Data Between Activitys
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ginppian/Android-Data_Between_Activitys/master/imgs/img1.png" width="507" height="383">
+	<img src="https://raw.githubusercontent.com/ginppian/Android-Data_Between_Activitys/master/imgs/img1.png" width="1015" height="767">
 </p>
 
 <p align="justify">

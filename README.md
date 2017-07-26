@@ -267,6 +267,6 @@ public class Ubicacion extends AppCompatActivity {
 
 ## Fuente
 
-<a href="http://blog.agencialanave.com/mandar-datos-entre-activities-en-android-tutorial4/">Mandar datos entre activitys Tutorial</a>
+<a href="http://blog.agencialanave.com/mandar-datos-entre-activities-en-android-tutorial4/">Mandar datos entre activitys - Tutorial</a>
 <br>
 <a href="http://www.vogella.com/tutorials/AndroidIntent/article.html">Android Intents - Tutorial</a>

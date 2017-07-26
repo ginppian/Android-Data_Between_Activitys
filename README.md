@@ -28,6 +28,8 @@ Android Data Between Activitys
 	Los embebimos en otro <i>LinearLayout</i> pero <i>HORIZONTAL</i>. De esta menera tenemos 4 elementos en vertical y el 2do y 3er elemento estan conformados por dos elementos en horizontal.
 </p>
 
+* Código
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
@@ -146,6 +148,8 @@ Android Data Between Activitys
 <p align="justify">
 	Aquí simplemente agregamos un <i>TextView</i>
 </p>
+
+* Código
 
 ```
 <?xml version="1.0" encoding="utf-8"?>

@@ -131,7 +131,7 @@ Android Data Between Activitys
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/ginppian/Android-Data_Between_Activitys/master/imgs/img1.png" width="1015" height="767">
+	<img src="https://raw.githubusercontent.com/ginppian/Android-Data_Between_Activitys/master/imgs/img1.png" width="1015" height="650">
 </p>
 
 <p align="justify">

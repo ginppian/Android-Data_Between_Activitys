@@ -12,7 +12,7 @@ Android Data Between Activitys
 ### Creamos las Vista 1
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img2.png" width="116" height="190">
 </p>
 
 <p align="justify">
@@ -123,11 +123,15 @@ Android Data Between Activitys
 ### Creamos la Vista 2
 
 <p align="center">
-	<img src="" width="" height="">
+	<img src="https://github.com/ginppian/Android-Data_Between_Activitys/blob/master/imgs/img3.png" width="116" height="190">
 </p>
 
 <p align="justify">
 	Es mejor agregar un <i>ACTIVITY</i> desde click derecho, new activitys porque de esta manera el <i>IDE</i> nos lo registra de manera automática en el archivo <i>ANDROID MANIFEST XML</i>.
+</p>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/ginppian/Android-Data_Between_Activitys/master/imgs/img1.png" width="507" height="383">
 </p>
 
 <p align="justify">
